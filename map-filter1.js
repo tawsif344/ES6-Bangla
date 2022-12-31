@@ -11,5 +11,5 @@ const down = student.filter(s => s.id>40)
 const down2 = student.find(s => s.id>40)
 
 console.log(names);
-// console.log(ides);
+console.log(ides);
 console.log(down2);
